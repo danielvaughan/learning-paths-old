@@ -16,9 +16,7 @@ A Learning Path has three sections:
   * Details of the specific learning areas
   * An estimate of the time required to work through the recommended resources
   * A method of measuring success
-
 * Details of the practitioners who curate the learning path and how to engage with the Community of Practice \(Who\)
-
 * Recommended resources to achieve the objectives of the learning path \(How\)
   * A mapping between the resources and specific learning area
     * For example chapters of a book to a learning area
