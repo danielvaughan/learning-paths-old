@@ -22,6 +22,7 @@ A Learning Path has three sections:
 * Details of the practitioners who curate the learning path and how to engage with the Community of Practice \(Who\)
 
 * Recommended resources to achieve the objectives of the learning path \(How\)
+
   * A mapping between the resources and specific learning area
     * For example chapters of a book to a learning area
 
@@ -30,7 +31,7 @@ A Learning Path has three sections:
 The learning path should give enough information
 
 * A strong reason for wanting to achieve the goal of the learning path
-* A understanding of the relevance of the goal
+* A understanding of the relevance of the goal to their own objectives
 
 
 
