@@ -9,7 +9,6 @@ A Learning Path is intially created by existing practioners proficient in the su
 ## What does a Learning Path Contain?
 
 A Learning Path has three sections:
-
 * Objectives of the Learning Paths \(What\)
   * A clearly defined goal
   * A justification from the practioners of the value of achieving the goal
