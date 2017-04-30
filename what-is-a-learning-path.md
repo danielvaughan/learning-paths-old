@@ -28,10 +28,12 @@ A Learning Path has three sections:
 
 ## What are the Prequisits for Following a Learning Path?
 
-The learning path should give enough information
+The learning path must give enough information to enable a potential learner to identify:
 
 * A strong reason for wanting to achieve the goal of the learning path
-* A understanding of the relevance of the goal to their own objectives
+* An understanding of the relevance of the goal to their own objectives
+
+* A high level of self belief in the achievability of the goal by a chosen date
 
 
 
