@@ -1,6 +1,6 @@
 # What is a Learning Path?
 
-A Learning Path is a curated collection of publically available resources recommended to those seeking to develop competency in a specific subject area with support from a Community of Practice.
+A Learning Path is a curated collection of publically available resources recommended to those with the goal to develop competency in a specific subject with support of a Community of Practice.
 
 ## Who Creates a Learning Path?
 
@@ -11,13 +11,26 @@ A Learning Path is intially created by existing practioners proficient in the su
 A Learning Path has three sections:
 
 * Objectives of the Learning Paths \(What\)
-  * The specific learning areas.
-  * Optionally a method for identifying the objectives have been acheived e.g. an exam.
 
-* The practitioners who curate the learning path and are available for questions and feedback \(Who\)
+  * A clearly defined goal
+  * A justification from the practioners of the value of achieving the goal
+  * Details of the specific learning areas
+  * An estimate of the time required to work through the recommended resources
+
+  * A method of measuring success
+
+* Details of the practitioners who curate the learning path and how to engage with the Community of Practice \(Who\)
+
 * Recommended resources to achieve the objectives of the learning path \(How\)
   * A mapping between the resources and specific learning area
     * For example chapters of a book to a learning area
+
+## What are the Prequisits for Following a Learning Path?
+
+The learning path should give enough information
+
+* A strong reason for wanting to achieve the goal of the learning path
+* A understanding of the relevance of the goal
 
 
 
